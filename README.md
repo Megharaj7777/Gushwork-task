@@ -66,7 +66,7 @@ Product Certifications
 Utilizes a "pill" design pattern to quickly communicate compliance with industry standards like IS 5984 and ISO 4427.
 
 📄 License
-This project is developed for Mangalam. All rights reserved.
+This project is developed for Gushwork. All rights reserved.
 
 ✉️ Contact
 For industrial inquiries or technical support regarding this site, please reach out via the contact section in the application.
