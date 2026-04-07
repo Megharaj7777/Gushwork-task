@@ -47,7 +47,7 @@ Plaintext
 Clone the repository:
 
 Bash
-git clone https://github.com/Megharaj7777/mangalam-hdpe.git
+git clone https://github.com/Megharaj7777/Gushwork-task.git
 Navigate to the project folder:
 
 Bash
